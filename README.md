@@ -1,4 +1,4 @@
-### Hi there 👋 [![Welcome](https://img.shields.io/badge/WELCOME to-NiTRONDC profile-brightgreen.svg?style=flat-square)](https://github.com/NiTRONDC)
+### Hi there 👋 [![Welcome](https://img.shields.io/badge/NiTRONDC-WELCOME-brightgreen.svg?style=flat-square)](https://github.com/NiTRONDC)
 
 ![GiTHUB Status](https://github-readme-stats.vercel.app/api?username=NiTRONDC&count_private=true&show_icons=true&theme=radical)
 
