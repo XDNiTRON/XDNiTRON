@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GiTHUB Status](https://github-readme-stats.vercel.app/api?username=NiTRONDC&count_private=true&show_icons=true&theme=radical)
 <!--
 **NiTRONDC/NiTRONDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
