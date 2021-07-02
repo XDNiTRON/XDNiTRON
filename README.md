@@ -2,7 +2,7 @@
 
 [![GiTHUB Status](https://github-readme-stats.vercel.app/api?username=NiTRONDC&count_private=true&show_icons=true&theme=radical)](https://github.com/NiTRONDC)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTRONDC&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTRONDC&show_icons=true&theme=radical)](https://github.com/NiTRONDC)
 
 
 
