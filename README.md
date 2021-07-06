@@ -1,10 +1,12 @@
 ### Hi there 👋 [![Welcome](https://img.shields.io/badge/NiTRONDC-WELCOME-brightgreen.svg?style=flat-square)](https://github.com/NiTRONDC)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiTRONDC&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/NiTRONDC)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTRONDC&layout=compact)](https://github.com/NiTRONDC)
 
 [![counter](https://komarev.com/ghpvc/?username=NiTRONDC&style=flat-square)](https://github.com/NiTRONDC)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiTRONDC&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/NiTRONDC)
 
 ### ACHIEVEMENT ⭐
 
