@@ -1,4 +1,4 @@
-### Hi there [![Welcome](https://img.shields.io/badge/👋-WELCOME-brightgreen.svg?style=flat-square)](https://github.com/NiTRONDC)
+### Hi there [![Welcome](https://img.shields.io/badge/👋-WELCOME-brightgreen.svg?style=flat)](https://github.com/NiTRONDC)
 
 [![telegram badge](https://img.shields.io/badge/NiTRONDC-30302f?style=flat&logo=telegram)](https://github.com/NiTRONDC)
 [![counter](https://komarev.com/ghpvc/?username=NiTRONDC&style=flat)](https://github.com/NiTRONDC)
