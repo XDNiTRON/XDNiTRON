@@ -4,6 +4,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTRONDC&layout=compact)](https://github.com/NiTRONDC)
 
+[![counter](https://komarev.com/ghpvc/?username=NiTRONDC&style=flat-square)](https://github.com/NiTRONDC)
+
 ### ACHIEVEMENT ⭐
 
 [![Artic Code Vault Contributer](https://googleapi-search.nodejs-vodnd-akamaized-adaptive-cdntoken-googleusercontent-m3u8.workers.dev/0:/badge--acv-64.png)](https://github.com/NiTRONDC)
