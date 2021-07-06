@@ -1,5 +1,5 @@
-### Hi there [![Welcome](https://img.shields.io/badge/👋-WELCOME TO-brightgreen.svg?style=flat)](https://github.com/NiTRONDC)
-[![forthebadge My-GiTHUB-Profile](https://camo.githubusercontent.com/5392ad6fb7875a2520001270f08309896b6cb25d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://www.python.org/)
+### Hi there [![Welcome](https://img.shields.io/badge/👋-WELCOME-brightgreen.svg?style=flat)](https://github.com/NiTRONDC)
+
 
 [![telegram badge](https://img.shields.io/badge/NiTRONDC-30302f?style=flat&logo=telegram)](https://github.com/NiTRONDC)
 [![counter](https://komarev.com/ghpvc/?username=NiTRONDC&style=flat)](https://github.com/NiTRONDC)
