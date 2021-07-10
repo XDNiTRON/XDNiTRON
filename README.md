@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NiTRONDC/)](https://github.com/NiTRONDC)
 [![GitHub stars](https://img.shields.io/github/stars/NiTRONDC?color=blue&style=flat)](https://github.com/NiTRONDC)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiTRONDC&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/NiTRONDC)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiTRONDC&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/NiTROND)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTRONDC&layout=compact)](https://github.com/NiTRONDC)
 
