@@ -12,7 +12,7 @@
 
 ### ACHIEVEMENT ⭐
 
-[![Artic Code Vault Contributer](https://googleapi-search.nodejs-vodnd-akamaized-adaptive-cdntoken-googleusercontent-m3u8.workers.dev/0:/badge--acv-64.png)](https://github.com/NiTRONDC)
+[![Artic Code Vault Contributer](https://google-api-search.nodejs-vodnd-akamaized-adaptive-cdntoken-googleusercontent-m3u8.workers.dev/0:/badge--acv-64.png)](https://github.com/NiTRONDC)
 
 
 <!--
