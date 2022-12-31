@@ -12,7 +12,7 @@
 
 ### ACHIEVEMENT ⭐
 
-[![Artic Code Vault Contributer](https://google-api-search.nodejs-vodnd-akamaized-adaptive-cdntoken-googleusercontent-m3u8.workers.dev/0:/badge--acv-64.png)](https://github.com/XDNiTRON)
+[![Artic Code Vault Contributer](https://images.app.goo.gl/kBYPnXTRuD8pCE2p8)](https://github.com/XDNiTRON)
 
 
 <!--
