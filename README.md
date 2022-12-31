@@ -12,7 +12,7 @@
 
 ### ACHIEVEMENT ⭐
 
-[![Artic Code Vault Contributer](https://images.app.goo.gl/kBYPnXTRuD8pCE2p8)](https://github.com/XDNiTRON)
+[![Artic Code Vault Contributer](https://images.app.goo.gl/kBYPnXTRuD8pCE2p8.png)](https://github.com/XDNiTRON)
 
 
 <!--
